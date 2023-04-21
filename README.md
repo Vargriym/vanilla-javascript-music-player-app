@@ -1,4 +1,4 @@
-Fully functional music player app built using vanilla JavaScript.
+Fully functional music player app, built using vanilla JavaScript.
 
 Demo: https://vargriym.github.io/vanilla-javascript-music-player-app/
 
