@@ -1,9 +1,9 @@
 let allMusic = [
     {
-      name: "Ode To The Mets",
-      artist: "The Strokes",
-      img: "Images/1.jpeg",
-      src: "Songs/1.mp3",
+      name: "El 3asal",
+      artist: "Donia Wael",
+      img: "Images/4.jpeg",
+      src: "Songs/4.mp3",
     },
     {
       name: "Get Lucky",
@@ -12,16 +12,16 @@ let allMusic = [
       src: "Songs/2.mp3",
     },
     {
+      name: "Ode To The Mets",
+      artist: "The Strokes",
+      img: "Images/1.jpeg",
+      src: "Songs/1.mp3",
+    },
+    {
       name: "Last Night I Dreamt That Somebody Loved Me",
       artist: "The Smiths",
       img: "Images/3.jpeg",
       src: "Songs/3.mp3",
-    },
-    {
-      name: "El 3asal",
-      artist: "Donia Wael",
-      img: "Images/4.jpeg",
-      src: "Songs/4.mp3",
     },
   ];
   
