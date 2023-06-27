@@ -20,7 +20,7 @@ let allMusic = [
     {
       name: "Last Night I Dreamt That Somebody Loved Me",
       artist: "The Smiths",
-      img: "Images/3.jpeg",
+      img: "Images/smiths.jpg",
       src: "Songs/3.mp3",
     },
   ];
